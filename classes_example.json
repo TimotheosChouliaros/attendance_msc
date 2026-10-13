@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cryptography",
+    "day": "Mon",
+    "start": "18:10",
+    "url": "PASTE_MEETING_LINK_HERE"
+  },
+  {
+    "name": "Network security",
+    "day": "Tue",
+    "start": "18:10",
+    "url": "PASTE_MEETING_LINK_HERE"
+  },
+  {
+    "name": "Information Security Management",
+    "day": "Wed",
+    "start": "18:10",
+    "url": "PASTE_MEETING_LINK_HERE"
+  },
+  {
+    "name": "Ethical Hacking",
+    "day": "Thu",
+    "start": "18:10",
+    "url": "PASTE_MEETING_LINK_HERE"
+  }
+]
